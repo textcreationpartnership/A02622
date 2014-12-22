@@ -35,14 +35,32 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Time is a turne-coate. Or Englands three-fold metamorphosis VVherin is acted the pensiue mans epilog
+
+1. TO THE RIGHT HONORABLE SIR THOMAS BENNET KNIGHT, LORD MAIOR OF the famous Citie of London, the right Worſhipfull Sir William Romley, and Sir Thomas Midleton Knights, and Sheriffes of the ſame Citie: increaſe of honor and euer-flouriſhing felicitie.
+
+1. The Author, and his Booke.
+
+1. R. B. De Argumento huius Libri encomium.
+
+1. Libri & Authoris Encomium.
+
+1. To the iudiciall Reader.
+
 #####Body#####
 
-1. Iacobo Regiaeterna Gloria.
+1. TIME Is a Turne-coate: OR Englands threefold Metamorphoſis. Post tristia, Leta.
 
-1. Anna valeat Regina.
+1. A Panygericall Idilion pronounced to the Citie of London before the entrance of her long-expected Comfort.
 
-1. Henricus Princeps vivat.
+1. PASTORALL PANEGYRICKS.
+
+    _ Iacobo Regiaeterna Gloria.
+
+    _ Anna valeat Regina.
+
+    _ Henricus Princeps vivat.
+
+1. ἘΠΙΜΕΛΩΔΕΣ.
 
 **Types of content**
 
